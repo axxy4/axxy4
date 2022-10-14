@@ -31,4 +31,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/O..!!! Hello "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="O..!!! Hello " /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&locale=en" alt="axxy4" /></p>
