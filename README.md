@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Akki1.jpg)
+![logo](https://github.com/axxy4/axxy4/blob/main/Akki1.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Nakum</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
