@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Developer**
 
-- 🌱 I’m currently learning **(Core java, SpringBoot, mysql, Angular , ReactJs)**
+- 🌱 I’m currently learning **(java, SpringBoot, mysql, Angular, ReactJs)**
 
 - 👯 I’m looking to collaborate on **E-Commerce website, GUI Application, Security Apps**
 
