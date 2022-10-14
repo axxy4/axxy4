@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **(java, SpringBoot, mysql, Angular, ReactJs)**
 
-- 👯 I’m looking to collaborate on **E-Commerce website, GUI Application, Security Apps**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [axxy4](axxy4)
 
