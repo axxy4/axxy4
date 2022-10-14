@@ -1,7 +1,7 @@
 ![logo](https://github.com/axxy4/axxy4/blob/main/Akki1.jpg)
 
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A passionate full stack java developer from India</h3><br><br>
+<h3 align="center">A passionate full stack java developer from India</h3>
 
 <img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum.gif">
 
