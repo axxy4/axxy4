@@ -35,7 +35,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&locale=en" alt="axxy4" /></p><br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&locale=en" alt="axxy4" /></p><br><br><br><br><br><br><br>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=axxy4&" alt="axxy4" /></p>
 
