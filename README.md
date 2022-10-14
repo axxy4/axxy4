@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-<p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p>
+<p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p><br><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axxy4" alt="axxy4" /></a> </p>
 
