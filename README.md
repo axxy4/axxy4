@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [axxy4](axxy4)
 
-💬 Ask me about **Anything***
+- 💬 Ask me about **Anything***
 
 - 📫 How to reach me **nakumakshay7426@gmail.com**
 
