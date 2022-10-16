@@ -1,6 +1,6 @@
 ![logo](https://github.com/axxy4/axxy4/blob/main/Akki11.jpg)
 
-<h3 align="center">A passionate full stack java developer from India</h3><br>
+<h3 align="center">*I'm an enthusiastic and passionate soft developer from India*</h3><br>
 
 <p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p><br><br>
 
