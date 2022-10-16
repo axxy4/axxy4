@@ -1,8 +1,8 @@
 ![logo](https://github.com/axxy4/axxy4/blob/main/Akki11.jpg)
 
-<h2 align="center">I'm an enthusiastic and passionate soft developer from India</h2><br>
+<h2 align="center">I'm an enthusiastic and passionate soft developer from India</h2>
 
-<h3 align="center">A self-taught, passionate and fast learner full stack developer from Bangalore. I love to work with new technologies and developing web application. Currently, I am learning how to improve the performance of progressive web application for better user experience. I'm looking to apply my skill as part of a fast-paced, quality-driven team in order to build better experience on the web and mobile app.</h3><br>
+<h4 align="center">A self-taught, passionate and fast learner full stack developer from Bangalore. I love to work with new technologies and developing web application. Currently, I am learning how to improve the performance of progressive web application for better user experience. I'm looking to apply my skill as part of a fast-paced, quality-driven team in order to build better experience on the web and mobile app.</h4><br>
 
 <p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p><br><br>
 
