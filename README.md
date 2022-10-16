@@ -31,11 +31,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </p>
   
- <img align="left" alt="VS Code" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Visual_Studio_Code.png" height="50"/>
+<img align="left" alt="VS Code" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Visual_Studio_Code.png" height="50"/>
 <img align="left" alt="Word" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/microsoft-word-logo.png" height="50"/>
 <img align="left" alt="Excel" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Microsoft_Excel.png" height="50"/> 
 <img align="left" alt="PowerPoint" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/Microsoft_PowerPoint.png" height="50"/></p>
