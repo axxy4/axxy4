@@ -4,7 +4,7 @@
 
 <h4 align="center">A self-taught, passionate and fast learner full stack developer from Bangalore. I love to work with new technologies and developing web application. Currently, I am learning how to improve the performance of progressive web application for better user experience. I'm looking to apply my skill as part of a fast-paced, quality-driven team in order to build better experience on the web and mobile app.</h4><br>
 
-<p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p><br><br>
+<p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p>
 
 <h4 align="center">I have completed course to become a Full Stack Developer : Front-End & Back-End both. At Back-End I studied about J2EE(JSP*MVC*CoreJAVA*AdvancedJAVA), MysQl, SpringBoot Framework, Hibernate, AngularJS. At Front-End, I learned about HTML5, CSS3</h4><br>
 
