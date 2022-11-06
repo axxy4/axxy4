@@ -50,3 +50,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/O..!!! Hello "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="O..!!! Hello " /></a></p><br><br><br>
 
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxy4&layout=compact&border_radius=15%&theme=jolly" /></p>
+
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&theme=jolly&border_radius=20%" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axxy4&show_icon=true&theme=jolly&border_radius=5%" alt="axxy4" /></p>
