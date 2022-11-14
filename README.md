@@ -6,7 +6,7 @@
 
 <p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p>
 
-<h4 align="center">I have completed course to become a Full Stack Developer : Front-End & Back-End both. At Back-End I studied about J2EE(JSP*MVC*CoreJAVA*AdvancedJAVA), MysQl, SpringBoot Framework, Hibernate, AngularJS. At Front-End, I learned about HTML5, CSS3.</h4><br>
+<h4 align="center">I have completed course to become a Full Stack Developer : Front-End & Back-End both. At Back-End I studied about J2EE(JSP*MVC*CoreJAVA*AdvancedJAVA), MysQl, SpringBoot Framework, Hibernate. At Front-End, I learned about HTML5, CSS3.</h4><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axxy4" alt="axxy4" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Developer**
 
-- 🌱 I’m currently learning **(java, SpringBoot, mysql, Angular, ReactJs)**
+- 🌱 I’m currently learning **(java, SpringBoot, mysql, Hibernate, HTML5, CSS3)**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
