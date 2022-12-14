@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Developer**
 
-- 🌱 I’m currently learning **(java, SpringBoot, mysql, Hibernate, HTML5, CSS3)**
+- 🌱 I’m currently learning **(Java, SpringBoot, MySQL, Hibernate, HTML5, CSS3)**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
