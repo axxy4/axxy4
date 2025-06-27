@@ -2,7 +2,7 @@
 
 <h2 align="center"><font face="Brush Script MT">I'm an enthusiastic and passionate software developer from India</font></h2>
 
-<h4 align="center">A self-taught, passionate and fast learner full stack developer from Vadodara,**Gujarat.** I love to work with new technologies and developing web application.  I'm looking to apply my skill as part of a fast-paced, quality-driven team in order to build better experience on the web and mobile app.</h4><br>
+<h4 align="center">A self-taught, passionate and fast learner full stack developer from Vadodara, Gujarat. I love to work with new technologies and developing web application.  I'm looking to apply my skill as part of a fast-paced, quality-driven team in order to build better experience on the web and mobile app.</h4><br>
 
 <p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p>
 
